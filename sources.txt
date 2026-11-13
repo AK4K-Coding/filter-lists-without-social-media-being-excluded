@@ -44,7 +44,7 @@ https://filters.adtidy.org/extension/ublock/filters/19.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 https://secure.fanboy.co.nz/fanboy-newsletter.txt
 https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt
-https://easylist-downloads.adblockplus.org/fanboy-social.txt
+# REMOVED (keeps social): https://easylist-downloads.adblockplus.org/fanboy-social.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 
@@ -89,9 +89,9 @@ https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_c
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt
-https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt
+# REMOVED (keeps social): https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt
-https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-shorts.txt
+# REMOVED (keeps YT Shorts): https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-shorts.txt
 # DISABLED: hides YouTube recommendations below video (ytm-item-section-renderer.single-column-watch-next-modern-panels)
 # https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-distracting.txt
 
